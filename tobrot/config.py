@@ -9,7 +9,7 @@ class Config(Config):
     APP_ID = 2094034
     API_HASH = "6d15ffa47d372a191aa8fcf9e4d175e6"
     OWNER_ID = 1284331504
-    AUTH_CHANNEL = [-1001481042970]
+    AUTH_CHANNEL = [-1001465407236]
     DESTINATION_FOLDER = "Gdrivebot" #Name of your folder read readme(not id of the folder)
     #Just don't fill RCLONE_CONFIG vars, insted copy your rclone.conf file in root directory
     #if your wanted to fill -- fill your rclone config like this(Your config may have some extra value or less. so Don't worry)
